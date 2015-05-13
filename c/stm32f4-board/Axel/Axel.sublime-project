@@ -1,0 +1,62 @@
+{
+    "folders":
+    [
+        {         
+             "path": "."
+        }
+        
+    ] ,
+"build_systems":
+    [
+        {
+            "name": "ARM build",
+            "cmd": ["make"],
+            "working_dir": "${project_path}/"
+        },
+        {
+            "name": "ARM hex",
+            "cmd": ["make", "Axe.hex"],
+            "working_dir": "${project_path}/"
+        },
+        {
+            "name": "ARM bin",
+            "cmd": ["make", "Axel.bin"],
+            "working_dir": "${project_path}/"
+        }
+
+    ],
+
+  "settings":
+       {
+            "sublimegdb_workingdir": "${folder:${path:Axel.sublime-project}}/",
+            "sublimegdb_commandline": "arm-none-eabi-gdb --interpreter=mi -command=${project_path:gdbcommands}",
+            "sublimegdb_exec_cmd" : "continue",
+            "sublimeclang_options":
+           [
+               "-std=c++11",
+               "-Wall",
+               "-I/home/bebe/work/tuning/board/f4/Libraries/",
+               "-I/home/bebe/work/tuning/board/f4/Libraries/cmsis_lib/include/",
+               "-I/home/bebe/work/tuning/board/f4/Libraries/cmsis_lib/source/",
+               "-I/home/bebe/work/tuning/board/f4/Libraries/cmsis_boot/startup",
+               "-I/home/bebe/work/tuning/board/f4/Libraries/cmsis_boot/",
+               "-I/home/bebe/work/tuning/board/f4/Libraries/cmsis/",
+               "-I/home/bebe/work/tuning/board/f4/LIS302DL/",
+               "-I/home/bebe/work/tuning/board/f4/CacheLibs/Libraries/CMSIS/Include",  
+               // "-I/usr/arm-none-eabi/include",
+               "-I/home/bebe/work/tuning/board/f4/ARMCM4/Include",
+               // "-I/usr/include/",
+               // "-I/home/bebe/work/tuning/board/f4/CacheLibs/Libraries/CMSIS/Include/",
+               // "-I/home/bebe/work/tuning/board/f4/ARMCM4/Include/",
+               // "-I/home/bebe/work/tuning/board/f4/ARMCM4/Source/",
+               // "-I/home/bebe/work/tuning/board/f4/ARMCM4/Source/ARM/",
+               // "-I/home/bebe/work/tuning/board/f4/ARMCM4/Source/GCC/",
+               "-I${folder:${project_path:Axel.sublime-project}}",
+               "-DSTM32F4XX_MD",
+               "-DARM_MATH_CM4",
+               "-DUSE_STDPERIPH_DRIVER"
+           ]
+
+       }
+}
+

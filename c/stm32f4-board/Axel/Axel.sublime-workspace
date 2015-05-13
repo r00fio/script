@@ -1,0 +1,478 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"wr",
+				"waitFor"
+			],
+			[
+				"q1",
+				"q1	int"
+			],
+			[
+				"y",
+				"y	int16_t"
+			],
+			[
+				"z",
+				"z_achse	int16_t"
+			],
+			[
+				"acos",
+				"acosf(float __x)	float"
+			],
+			[
+				"int",
+				"int16_t	typedef"
+			],
+			[
+				"sqr",
+				"sqrtf(float __x)	float"
+			],
+			[
+				"I",
+				"I"
+			],
+			[
+				"sqrt",
+				"sqrt(double __x)	double"
+			],
+			[
+				"x",
+				"x	double_t"
+			],
+			[
+				"S",
+				"Source"
+			],
+			[
+				"ARM",
+				"ARM"
+			],
+			[
+				"print",
+				"println(char *str)	int"
+			],
+			[
+				"pro",
+				"project_path"
+			],
+			[
+				"STM",
+				"STM_LIB"
+			],
+			[
+				"ms",
+				"ms_delay"
+			],
+			[
+				"am",
+				"arm-none-eabi-gdb"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/home/bebe/work/project/.git/config",
+			"settings":
+			{
+				"buffer_size": 199,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "ARM build",
+	"command_palette":
+	{
+		"height": 54.0,
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"format",
+				"SublimeAStyleFormatter: Format Current File"
+			],
+			[
+				"forma",
+				"SublimeAStyleFormatter: Format Current File"
+			],
+			[
+				"clang",
+				"Preferences: SublimeClang Settings – Default"
+			],
+			[
+				"Default",
+				"Preferences: Key Bindings - Default"
+			],
+			[
+				"key",
+				"Preferences: Key Bindings - Default"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 412.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/bebe/work/script/c/stm32f4-board/Axel/Axel.elf",
+		"/home/bebe/Dropbox/Public/Book/hack/commands",
+		"/home/bebe/work/project/.gitignore",
+		"/home/bebe/work/project/idea/git-clone-sub-tree/src/groovy/gitCloneSubTree.groovy",
+		"/home/bebe/work/project/idea/gitCloneSubTree.groovy",
+		"/home/bebe/work/project/idea/clone-sub-tree.groovy",
+		"/home/bebe/work/netty/.git/info/sparse-checkout",
+		"/usr/bin/clone-sub-tree.groovy",
+		"/home/bebe/work/project/idea/annotation-test/HelloWorld.class",
+		"/home/bebe/work/project/idea/annotation-test/build/classes/main/top/Main.class",
+		"/home/bebe/Dropbox/Public/SelfDev/linux/how_to_share_folder_with_windows",
+		"/home/bebe/.IntelliJIdea13/config/options/options.xml",
+		"/etc/fstab",
+		"/home/bebe/work/project/idea/netty-examples/.git/info/sparse-checkout",
+		"/home/bebe/work/project/idea/netty-examples/.git/logs/HEAD",
+		"/home/bebe/work/project/idea/annotation-test/build/classes/main/top/Main.java",
+		"/Main.class",
+		"/home/bebe/.jmc/5.2.0/.metadata/.log",
+		"/home/bebe/.gradle/gradle.properties",
+		"/home/bebe/work/project/idea/spark-overview/src/main/test/resources/SummaryList.html",
+		"/home/bebe/Downloads/tess/summary-sync/README.md",
+		"/home/bebe/Downloads/proj/summary-sync/src/main/java/service/SummaryService.java",
+		"/home/bebe/Downloads/proj/summary-sync/src/main/java/dao/InsertSummaryTask.java",
+		"/home/bebe/work/project/idea/summary-sync/src/main/test/parser/SummaryParserTest.java",
+		"/home/bebe/work/project/.git/config",
+		"/home/bebe/work/ide/idea-IU-135.1306/bin/idea.sh",
+		"/home/bebe/.cache/.fr-PZFiWs/world_innodb.sql",
+		"/home/bebe/work/project/git",
+		"/home/bebe/work/project/status",
+		"/home/bebe/.ssh/github_id_rsa.pub",
+		"/home/bebe/Dropbox/Public/SelfDev/hack/commands",
+		"/home/bebe/Downloads/dictionary/Super-WPA",
+		"/home/bebe/Downloads/oclHashcat-1.31/oclHashcat.log",
+		"/home/bebe/.jmc/5.2.0/.metadata/.log.",
+		"/home/bebe/Downloads/wordfield-0.1beta1/Makefile",
+		"/home/bebe/work/hack/wifi/drivers/compat-wireless-2010-10-30/scripts/update-initramfs",
+		"/home/bebe/work/hack/meatball-01.cap",
+		"/home/bebe/work/hack/wifi/drivers/compat-wireless-2010-10-16/scripts/update-initramfs",
+		"/home/bebe/work/hack/wifi/compat-wireless-2012-12-18/scripts/update-initramfs",
+		"/home/bebe/Downloads/aircrack-ng-1.2-rc1/common.mak",
+		"/home/bebe/.IntelliJIdea14/config/options/options.xml",
+		"/home/bebe/work/script/java/Accelerometer/src/main/java/Main.java",
+		"/home/bebe/work/script/c/stm32f4-board/Axel/main.c",
+		"/etc/ld.so.conf",
+		"/etc/bluetooth/rfcomm.conf",
+		"/home/bebe/work/tuning/board/f4/Libraries/cmsis_lib/include/stm32f4xx_tim.h",
+		"/home/bebe/work/script/c/stm32f4-board/Axel/gdbcommands",
+		"/home/bebe/work/ide/clion-140.569.17/bin/clion.sh",
+		"/home/bebe/.profile",
+		"/etc/environment",
+		"/home/bebe/work/ide/clion-140.569.17/bin/idea.properties",
+		"/home/bebe/work/tuning/board/f4/Libraries/cmsis_lib/source/stm32f4xx_tim.c",
+		"/home/bebe/work/tuning/board/f4/LIS302DL/stm32_ub_lis302dl.h",
+		"/home/bebe/work/tuning/board/f4/Libraries/cmsis_boot/startup/startup_stm32f4xx.c",
+		"/home/bebe/work/tuning/board/f4/Libraries/cmsis_lib/source/stm32f4xx_exti.c",
+		"/home/bebe/work/script/c/stm32f4-board/Axel/main.h",
+		"/home/bebe/work/script/c/stm32f4-board/Axel/Axel.sublime-project",
+		"/home/bebe/work/script/c/stm32f4-board/Axel/Makefile",
+		"/home/bebe/work/tuning/board/f4/Libraries/cmsis_lib/include/stm32f4xx_exti.h",
+		"/home/bebe/work/tuning/board/f4/Libraries/cmsis/core_cmFunc.h",
+		"/home/bebe/work/tuning/board/f4/CacheLibs/Libraries/CMSIS/Include/arm_math.h",
+		"/home/bebe/work/tuning/board/f4/Libraries/ARMCM4.h",
+		"/usr/arm-none-eabi/include/math.h",
+		"/usr/arm-none-eabi/include/machine/_default_types.h",
+		"/home/bebe/work/script/c/stm32f4-board/Axel/Axel.sublime-workspace",
+		"/usr/include/x86_64-linux-gnu/bits/mathcalls.h",
+		"/home/bebe/work/script/bash/workspace-switch",
+		"/home/bebe/work/script/bash/workspace-left",
+		"/home/bebe/.config/sublime-text-2/Packages/Default/Default (Linux).sublime-keymap",
+		"/home/bebe/.config/sublime-text-2/Packages/Default/Preferences.sublime-settings",
+		"/home/bebe/.config/sublime-text-2/Packages/User/C.sublime-settings",
+		"/home/bebe/work/script/c/stm32f4-board/Axel/stm32_flash.ld",
+		"/home/bebe/.config/sublime-text-2/Packages/User/Default (Linux).sublime-keymap",
+		"/home/bebe/work/script/c/stm32f4-board/Axel/system_stm32f4xx.c",
+		"/usr/include/math.h",
+		"/home/bebe/work/tuning/board/f4/Libraries/cmsis/core_cm4.h",
+		"/home/bebe/work/tuning/board/f4/Libraries/cmsis_boot/stm32f4xx.h",
+		"/home/bebe/work/script/c/stm32f4-board/Axel/Axel.bin",
+		"/home/bebe/work/lib/board/f4/Libraries/cmsis_boot/startup/startup_stm32f4xx.c",
+		"/home/bebe/Downloads/TestSerialPort/ReadSerialPort.java",
+		"/home/bebe/work/script/c/stm32f4-board/Axel/stm32f4xx_conf.h",
+		"/media/72A809D7A8099B2D/Users/FreeUser/Dropbox/Public/HWSW/HW/Accelerometer(LIS302DL&F404)/cmsis_boot/stm32f4xx_conf.h",
+		"/media/72A809D7A8099B2D/Users/FreeUser/Dropbox/Public/HWSW/HW/Accelerometer(LIS302DL&F404)/cmsis_boot/system_stm32f4xx.c",
+		"/home/bebe/work/lib/board/f4/Libraries/CMSIS/ST/STM32F4xx/Source/Templates/TrueSTUDIO/startup_stm32f4xx.s",
+		"/home/bebe/work/lib/board/f4/Libraries/STM32F4xx_StdPeriph_Driver/inc/stm32f4xx_rcc.h",
+		"/home/bebe/Downloads/TestSerialPort/ListCommPorts.java",
+		"/home/bebe/.bashrc",
+		"/etc/profile",
+		"/home/bebe/.local/share/applications/jetbrains-idea.desktop",
+		"/home/bebe/work/lib/board/f4/Libraries/CMSIS/ST/STM32F4xx/Include/stm32f4xx.h",
+		"/home/bebe/named",
+		"/home/bebe/file",
+		"/home/bebe/a",
+		"/home/bebe/Create",
+		"/home/bebe/work/ide/idea-IU-133.193/bin/idea.properties",
+		"/home/bebe/work/ide/idea-IU-133.193/bin/idea.sh",
+		"/home/bebe/work/script/c/stm32f4-board/README.md",
+		"/home/bebe/.config/sublime-text-2/Packages/SublimeGDB/SublimeGDB.sublime-settings",
+		"/home/bebe/.config/sublime-text-2/Packages/SublimeGDB/sublimegdb.py",
+		"/home/bebe/work/system/README.md",
+		"/home/bebe/work/lib/board/f4/LIS302DL/stm32_ub_lis302dl.h",
+		"/home/bebe/work/script/stm32_discovery_arm_gcc/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/inc/stm32f4xx_gpio.h",
+		"/home/bebe/work/script/stm32_discovery_arm_gcc/STM32F4-Discovery_FW_V1.1.0/Libraries/CMSIS/ST/STM32F4xx/Include/stm32f4xx.h",
+		"/home/bebe/work/script/Axel/main.h",
+		"/home/bebe/.config/sublime-text-2/Packages/SublimeClang/src/build/Makefile",
+		"/home/bebe/.config/sublime-text-2/Packages/SublimeClang/SublimeClang.sublime-settings",
+		"/usr/lib/python2.6/bin/python-config",
+		"/home/bebe/work/script/py/hello.py",
+		"/opt/sublime_text_2/sublime_plugin.py",
+		"/home/bebe/work/script/Axel/Axel.sublime-project",
+		"/home/bebe/work/script/Axel/Makefile",
+		"/home/bebe/.config/sublime-text-2/Packages/SublimeClang/sublimeclang.py",
+		"/home/bebe/work/script/Axel/main.c",
+		"/etc/python/debian_config",
+		"/home/bebe/work/script/Axel/gdbcommands",
+		"/home/bebe/work/script/stm32_discovery_arm_gcc/blinky/gdbcommands",
+		"/home/bebe/work/lib/board/f4/Libraries/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_rcc.c",
+		"/home/bebe/work/lib/board/f4/LIS302DL/stm32_ub_spi1.h",
+		"/home/bebe/work/lib/board/f4/LIS302DL/stm32_ub_spi1.c",
+		"/home/bebe/work/lib/board/f4/LIS302DL/stm32_ub_lis302dl.c",
+		"/home/bebe/work/lib/board/f4/Libraries/CMSIS/ST/STM32F4xx/Source/Templates/system_stm32f4xx.c",
+		"/home/bebe/work/script/stm32_discovery_arm_gcc/blinky/blinky.sublime-project",
+		"/home/bebe/work/script/stm32_discovery_arm_gcc/STM32F4-Discovery_FW_V1.1.0/Libraries/CMSIS/ST/STM32F4xx/Source/Templates/TrueSTUDIO/startup_stm32f4xx.s",
+		"/home/bebe/.gdbinit"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"hprof",
+			"]",
+			"evl",
+			"/cv",
+			"rabota.ua/cv",
+			"leonid_yakimenko",
+			"rabota.ua/cv",
+			"=\"/",
+			"rabota.ua/cv",
+			"evl",
+			".git",
+			"evl",
+			"evl\nevl\nevl\nevl\n",
+			"evl\nevl\nevl\n",
+			"evl\nevl\n\n",
+			"evl\nevl\n",
+			" KLIB=/lib/modules/",
+			"werro",
+			"cflags",
+			"sprt",
+			"eval",
+			"evl",
+			"evl\n\n\n",
+			"evl",
+			"ev",
+			"evl",
+			"TIM_ARRPreloadConfig",
+			"$(OBJS) -lm",
+			"DEBUG",
+			"acos",
+			"sqrt",
+			"f5",
+			"_end",
+			"ctrl+f5",
+			"ctrl+f",
+			"f2",
+			"ctrl+alt",
+			"ctrl+r",
+			"output.",
+			"show",
+			"build",
+			"sqrt",
+			"atan",
+			"void toSphericalCoordinateSystem(double x, double y, double z) {",
+			"rein",
+			"1",
+			"DUSE_STDPERIPH_DRIVER",
+			"jdk",
+			"java",
+			"\"Run\"",
+			"\"run\"",
+			"UB_LIS302_Read",
+			"USART_Configuration",
+			"\n-I/home/ploop/projects/STM/",
+			"\n\"-I/home/ploop/projects/STM/",
+			"\n    \"-I/home/ploop/projects/STM/",
+			"USART2",
+			"BRR",
+			"UB_LIS302_Init",
+			"sendData",
+			"RCC_AHB1PeriphClockCmd",
+			"GPIO_InitStructure",
+			"RCC_APB1PeriphClockCmd",
+			"sendData",
+			"goto",
+			"alt+d",
+			"key",
+			"UB_LIS302_Init",
+			"splitAndSend",
+			"RCC_AHB1PeriphClockCmd",
+			"UB_LIS302_Read",
+			"USART2",
+			"USART_Configuration",
+			"assert_param",
+			"void assert_param(",
+			"SPI_Init",
+			"toggle",
+			"point",
+			"break"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/home/bebe/work/project/.git/config",
+					"settings":
+					{
+						"buffer_size": 199,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								111,
+								111
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 44.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.clang":
+	{
+		"height": 40.0
+	},
+	"output.exec":
+	{
+		"height": 330.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"brr",
+				"/home/bebe/work/lib/board/f4/Libraries/CMSIS/ST/STM32F4xx/Source/Templates/TrueSTUDIO/startup_stm32f4xx.s"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 183.0,
+	"status_bar_visible": true
+}

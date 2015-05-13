@@ -1,0 +1,13 @@
+void init_leds();
+void init_it();
+void tim_init();
+void Usart_Printf(void);
+// void toSphericalCoordinateSystem(int16_t x, int16_t y, int16_t z);
+void toSphericalCoordinateSystem();
+GPIO_InitTypeDef buildUsartGpioInit(uint32_t pin);
+void splitAndSend(int16_t coordinate);
+void USART_Configuration(void);
+void sendData(int8_t ch);
+void USART_PutChar(char ch);
+int println(char *str);
+void blinkInclination();
